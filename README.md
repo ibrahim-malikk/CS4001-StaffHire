@@ -1,7 +1,7 @@
 # CS4001-StaffHire
 # Instructions to Run the Recruitment System
 
-1. navigate to the project folder.
+1. Navigate to the project folder.
 
 2. Compile all Java files:
    javac StaffHire.java FullTimeStaffHire.java PartTimeStaffHire.java RecruitmentSystem.java
