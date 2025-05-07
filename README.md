@@ -1,18 +1,22 @@
 # CS4001-StaffHire
-# Instructions to Run the Recruitment System
+# Recruitment System
 
-1. Navigate to the project folder.
+This Java project is a Recruitment Management System with a GUI.
 
-2. Compile all Java files:
-   javac StaffHire.java FullTimeStaffHire.java PartTimeStaffHire.java RecruitmentSystem.java
-   java RecruitmentSystem
+## Classes:
+- `StaffHire.java`
+- `FullTimeStaffHire.java`
+- `PartTimeStaffHire.java`
+- `RecruitmentSystem.java` (GUI)
 
-3. Run the GUI application:
-   java RecruitmentSystem
+# Features:
+- Add Full-Time Staff
+- Add Part-Time Staff
+- Set Salary for Full-Time Staff
+- Set Shift for Part-Time Staff
+- Terminate Part-Time Staff
+- Display Staff Details
+- Clear Input Fields
 
-4. In the GUI, you can:
-   - Add Full-Time or Part-Time Staff
-   - Set Salary or Shifts
-   - Terminate Part-Time Staff
-   - Display Staff Details
-   - Clear Fields
+# How to Run:
+- Compile all `.java` files using command prompt:
